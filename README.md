@@ -15,10 +15,10 @@ This project implements an interactive region growing segmentation algorithm tha
 This is a demo of how this program works. The interactive segmentation part and then the obtained results.
 
 <p align="center">
-  <img src="output/demo.mov" alt="interactive region growing segmentation for MRI image">
+  <img src="outputs/demo.mov" alt="interactive region growing segmentation for MRI image">
 </p>
 
-![Original](output/results.png)
+![Original](outputs/results.png)
 
 ---
 
