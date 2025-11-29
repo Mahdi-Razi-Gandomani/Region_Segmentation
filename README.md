@@ -14,15 +14,14 @@ This project implements an interactive region growing segmentation algorithm tha
 
 This is a demo of how this program works. The interactive segmentation part and then the obtained results.
 
-<!-- <div>
+<div>
 <p align="center">
   <video src="outputs/demo.mp4" autoplay loop controls>
     aaaa
   </video>
 </p>
-</div> -->
+</div>
 
-[Video](outputs/demo.mp4)
 
 <!-- <p align="center">
   <img src="outputs/results.png" alt="results" style="width:75%;">
