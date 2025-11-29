@@ -16,7 +16,7 @@ This is a demo of how this program works. The interactive segmentation part and 
 
 
 <p align="center">
-  <img src="outputs/demo.gif" alt="interactive region growing segmentation for MRI image">
+  <img src="outputs/demo.gif" alt="interactive region growing segmentation for MRI image" style="width:75%;">
 </p>
 
 
