@@ -20,9 +20,9 @@ This is a demo of how this program works. The interactive segmentation part and 
   </video>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="outputs/results.png" alt="results" style="width:75%;">
-</p>
+</p> -->
 
 ---
 
